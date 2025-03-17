@@ -13,7 +13,7 @@ function askQuestion(array $questions, array $answers): int
 
 $questions = [
     ['question' => 'What does PHP stand for?', 'correct' => 'PHP: Hypertext Preprocessor'],
-    ['question' => 'Which function is used to read a line of input from the user in PHP?', 'correct' => ' fgets()'],
+    ['question' => 'Which function is used to read a line of input from the user in PHP?', 'correct' => 'fgets()'],
     ['question' => 'What symbol is used to denote a variable in PHP?', 'correct' => '$'],
     ['question' => 'Which of the following is NOT a valid PHP data type?', 'correct' => 'Character'],
 ];
